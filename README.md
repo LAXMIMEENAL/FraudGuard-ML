@@ -65,7 +65,7 @@ The repository contains the machine learning workflow, application components, s
 
 ## Author
 
-Laxmimeenal T
+Laxmimeenal Thirunavukkarasu
 
 B.Tech Artificial Intelligence and Data Science
 
